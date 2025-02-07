@@ -23,8 +23,6 @@
 
 <br />
 
-현재 Application이 Google Play에서 심사중입니다. 비공개 테스트에 참여하고 싶으신 분들은 아래 Email로 본인 성명과 Email을 포함한 연락처, 간단한 자기소개 또는 GitHub 주소를 보내주시면 검토 후 연락드리겠습니다. kiblelab@gmail.com
-
 해당 레포지토리에는 `AI`와 `Board Widgets` 코드가 포함되어 있지 않습니다.
 
 <br />
